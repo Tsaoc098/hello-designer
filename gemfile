@@ -1,2 +1,4 @@
 source "https://rubygems.org"
 gem 'jekyll', '4.3.1'
+$ bundle install
+$ git add Gemfile Gemfile.lock
